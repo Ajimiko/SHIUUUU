@@ -1,7 +1,7 @@
 
 
 {
-	"ip":"demonprivate.aternos.me:",
+	"ip":"demonprivate.aternos.me",
 	"port": "38837",
 	"name": "BOT",
 	"auto-night-skip":"true"
